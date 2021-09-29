@@ -1,0 +1,14 @@
+nand.c:135:1:sunxi_flash_nand_write_end	0	static
+nand.c:125:1:sunxi_flash_nand_download_toc	0	static
+nand.c:115:1:sunxi_flash_nand_download_spl	0	static
+nand.c:155:1:sunxi_flash_nand_secstorage_write	0	static
+nand.c:145:1:sunxi_flash_nand_secstorage_read	0	static
+nand.c:48:1:sunxi_flash_nand_size	0	static
+nand.c:95:1:sunxi_flash_nand_flush	0	static
+nand.c:105:1:sunxi_flash_nand_force_erase	0	static
+nand.c:38:1:sunxi_flash_nand_erase	0	static
+nand.c:27:1:sunxi_flash_nand_write	0	static
+nand.c:16:1:sunxi_flash_nand_read	0	static
+nand.c:85:1:sunxi_flash_nand_exit	0	static
+nand.c:75:1:sunxi_flash_nand_init	0	static
+nand.c:58:1:sunxi_flash_nand_probe	8	static

@@ -1,0 +1,8 @@
+sunxi_mmc_host_tm4.c:48:12:mmc_init_default_timing_para	16	static
+sunxi_mmc_host_tm4.c:121:13:sunxi_mmc_clk_io_onoff	20	static
+sunxi_mmc_host_tm4.c:364:13:mmc_ddr_mode_onoff	0	static
+sunxi_mmc_host_tm4.c:426:13:sunxi_mmc_core_init	16	static
+sunxi_mmc_host_tm4.c:253:12:mmc_set_mod_clk	24	static
+sunxi_mmc_host_tm4.c:383:13:mmc_hs400_mode_onoff.isra.0	0	static
+sunxi_mmc_host_tm4.c:410:13:sunxi_mmc_set_speed_mode	8	static
+sunxi_mmc_host_tm4.c:447:6:sunxi_mmc_host_tm4_init	0	static

@@ -1,0 +1,14 @@
+ndfc_timings.c:52:5:add_to_nctri	0	static
+ndfc_timings.c:73:6:delete_from_nctri_by_channel	12	static
+ndfc_timings.c:92:6:delete_nctri	24	static
+ndfc_timings.c:119:30:nctri_get	0	static
+ndfc_timings.c:137:5:before_update_nctri_interface	24	static
+ndfc_timings.c:176:5:start_update_nctri_interface	56	static
+ndfc_timings.c:282:5:ddr_mode_to_sdr	8	static
+ndfc_timings.c:306:5:update_1st_nctri_interface	72	static
+ndfc_timings.c:358:5:update_other_nctri_interface	88	static
+ndfc_timings.c:415:5:_update_ext_accessfreq_para	8	static
+ndfc_timings.c:475:5:set_nand_script_frequence	16	static
+ndfc_timings.c:499:5:update_nctri	40	static
+ndfc_timings.c:639:5:check_nctri	24	static
+ndfc_timings.c:698:5:update_boot0_nctri_interface	64	static

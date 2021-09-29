@@ -1,0 +1,11 @@
+clock_sun50iw10.c:16:6:clock_init_uart	8	static
+clock_sun50iw10.c:45:6:clock_get_pll6	8	static
+clock_sun50iw10.c:63:6:clock_get_corepll	8	static
+clock_sun50iw10.c:100:6:clock_get_axi	8	static
+clock_sun50iw10.c:116:6:clock_get_ahb	16	static
+clock_sun50iw10.c:153:6:clock_get_apb1	16	static
+clock_sun50iw10.c:188:6:clock_get_apb2	16	static
+clock_sun50iw10.c:225:6:clock_get_mbus	8	static
+clock_sun50iw10.c:260:5:usb_open_clock	16	static
+clock_sun50iw10.c:304:5:usb_close_clock	8	static
+clock_sun50iw10.c:323:5:sunxi_set_sramc_mode	0	static

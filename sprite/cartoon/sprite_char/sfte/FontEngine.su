@@ -1,0 +1,5 @@
+FontEngine.c:24:7:open_font	40	static
+FontEngine.c:58:7:close_font	16	static
+FontEngine.c:73:7:check_change_line	16	static
+FontEngine.c:110:7:draw_bmp_ulc	104	static
+FontEngine.c:140:7:draw_cursor	0	static

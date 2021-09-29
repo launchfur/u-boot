@@ -1,0 +1,15 @@
+board.c:50:28:sunxi_set_sramc_mode	0	static
+board.c:55:28:clock_set_corepll	0	static
+board.c:70:6:i2c_init_board	8	static
+board.c:147:6:enable_smp	0	static
+board.c:155:6:smp_init	0	static
+board.c:177:5:sunxi_plat_init	8	static
+board.c:192:5:board_init	32	static
+board.c:262:5:dram_init	8	static
+board.c:323:6:board_mmc_pre_init	0	static
+board.c:333:5:board_mmc_get_num	0	static
+board.c:339:6:board_mmc_set_num	0	static
+board.c:345:5:board_mmc_init	8	static
+board.c:428:5:misc_init_r	0	static
+board.c:446:5:ft_board_setup	0	static
+board.c:492:5:reserve_arch	8	static

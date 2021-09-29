@@ -1,0 +1,1 @@
+cmd_examples/standalone/hello_world := ./../tools/toolchain/gcc-linaro-7.2.1-2017.11-x86_64_arm-linux-gnueabi/bin/arm-linux-gnueabi-ld.bfd    -Ttext 0x42000000 -g -o examples/standalone/hello_world -e hello_world examples/standalone/hello_world.o examples/standalone/libstubs.o arch/arm/lib/lib.a

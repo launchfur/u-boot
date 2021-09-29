@@ -1,0 +1,2 @@
+sunxi_flash.c:86:12:env_sunxi_flash_save	131288	static
+sunxi_flash.c:239:12:env_sunxi_flash_load	262432	static

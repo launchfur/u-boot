@@ -1,0 +1,17 @@
+rawnand_timings.c:296:5:sandisk_toggle_vendor_specific_setting	16	static
+rawnand_timings.c:314:5:toshiba_toggle_vendor_specific_setting	0	static
+rawnand_timings.c:19:5:set_nand_onfi_ddr2_confiure_default	32	static
+rawnand_timings.c:77:5:micron_onfi_rb_strength_setting	24	static
+rawnand_timings.c:161:5:set_nand_onfi_timing_mode_default	16	static
+rawnand_timings.c:208:5:set_nand_toggle_specific_setting_default	32	static
+rawnand_timings.c:266:5:set_nand_toggle_vendor_specific_setting_default	16	static
+rawnand_timings.c:48:5:set_nand_onfi_driver_strength_default	32	static
+rawnand_timings.c:116:5:set_nand_onfi_rb_strength_default	24	static
+rawnand_timings.c:237:5:set_nand_toggle_driver_strength_default	32	static
+rawnand_timings.c:333:5:rawnand_async_to_onfi_ddr_or_ddr2_set	16	static
+rawnand_timings.c:389:5:rawnand_onfi_ddr_or_ddr2_to_async_set	16	static
+rawnand_timings.c:448:5:rawnand_async_to_toggle_ddr_or_ddr2_set	16	static
+rawnand_timings.c:491:5:rawnand_toggle_ddr_or_ddr2_to_async_set	16	static
+rawnand_timings.c:537:5:rawnand_toggle_ddr2_to_toggle_ddr_set	16	static
+rawnand_timings.c:577:5:rawnand_itf_unchanged_set	24	static
+rawnand_timings.c:682:6:rawnand_update_timings_ift_ops	12	static

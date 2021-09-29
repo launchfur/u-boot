@@ -1,0 +1,5 @@
+disp_private.c:19:5:disp_delay_ms	8	static
+disp_private.c:37:5:disp_delay_us	8	static
+disp_private.c:53:5:dump_layer_config	544	static
+disp_private.c:79:7:disp_vmap	0	static
+disp_private.c:84:6:disp_vunmap	0	static

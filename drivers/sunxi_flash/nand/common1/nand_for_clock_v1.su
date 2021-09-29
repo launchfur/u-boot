@@ -1,0 +1,17 @@
+nand_for_clock_v1.c:26:7:_get_pll6_clk_v1	8	static
+nand_for_clock_v1.c:464:7:_change_spic_clk_v1.part.1	24	static
+nand_for_clock_v1.c:68:7:_get_ndfc_clk_v1	32	static
+nand_for_clock_v1.c:132:7:_change_ndfc_clk_v1	40	static
+nand_for_clock_v1.c:301:7:_close_ndfc_clk_v1	8	static
+nand_for_clock_v1.c:329:7:_open_ndfc_ahb_gate_and_reset_v1	8	static
+nand_for_clock_v1.c:364:7:_close_ndfc_ahb_gate_and_reset_v1	8	static
+nand_for_clock_v1.c:396:7:_cfg_ndfc_gpio_v1	8	static
+nand_for_clock_v1.c:428:7:_get_spic_clk_v1	24	static
+nand_for_clock_v1.c:464:7:_change_spic_clk_v1	8	static
+nand_for_clock_v1.c:552:7:_close_spic_clk_v1	8	static
+nand_for_clock_v1.c:574:7:_open_spic_ahb_gate_and_reset_v1	8	static
+nand_for_clock_v1.c:602:7:_close_spic_ahb_gate_and_reset_v1	8	static
+nand_for_clock_v1.c:627:5:NAND_ClkRequest_v1	16	static
+nand_for_clock_v1.c:672:6:NAND_ClkRelease_v1	8	static
+nand_for_clock_v1.c:713:5:NAND_SetClk_v1	24	static
+nand_for_clock_v1.c:757:5:NAND_GetClk_v1	16	static

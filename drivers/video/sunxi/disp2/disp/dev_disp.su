@@ -1,0 +1,14 @@
+dev_disp.c:185:13:drv_lcd_close_callback	24	static
+dev_disp.c:706:12:disp_blank	24	static
+dev_disp.c:107:13:drv_lcd_open_callback	24	static
+dev_disp.c:152:11:drv_lcd_check_open_finished	16	static
+dev_disp.c:36:11:disp_getprop_regbase	176	static
+dev_disp.c:67:5:disp_getprop_irq	176	static
+dev_disp.c:165:5:sunxi_get_lcd_op_finished	8	static
+dev_disp.c:208:12:drv_lcd_disable	16	static
+dev_disp.c:307:5:disp_draw_colorbar	776	static
+dev_disp.c:1338:5:do_sunxi_disp_colorbar	24	static
+dev_disp.c:364:5:drv_disp_init	40	static
+dev_disp.c:659:5:drv_disp_exit	8	static
+dev_disp.c:671:5:sunxi_disp_get_source_ops	8	static
+dev_disp.c:728:6:disp_ioctl	160	static

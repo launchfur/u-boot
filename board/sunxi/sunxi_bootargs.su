@@ -1,0 +1,4 @@
+sunxi_bootargs.c:26:6:check_user_data	56	static
+sunxi_bootargs.c:241:5:update_user_data_ali	72	static
+sunxi_bootargs.c:277:5:update_user_data	760	static
+sunxi_bootargs.c:326:6:update_bootargs	2288	static

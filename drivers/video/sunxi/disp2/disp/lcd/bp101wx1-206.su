@@ -1,0 +1,8 @@
+bp101wx1-206.c:114:12:LCD_user_defined_func	0	static
+bp101wx1-206.c:81:12:LCD_close_flow	8	static
+bp101wx1-206.c:96:13:LCD_power_off	8	static
+bp101wx1-206.c:108:13:LCD_bl_close	8	static
+bp101wx1-206.c:72:12:LCD_open_flow	8	static
+bp101wx1-206.c:102:13:LCD_bl_open	8	static
+bp101wx1-206.c:90:13:LCD_power_on	8	static
+bp101wx1-206.c:24:13:LCD_cfg_panel_info	176	static

@@ -1,0 +1,2 @@
+canvas_utils.c:332:13:do_nothing	0	static
+canvas_utils.c:334:5:get_canvas_utils	0	static

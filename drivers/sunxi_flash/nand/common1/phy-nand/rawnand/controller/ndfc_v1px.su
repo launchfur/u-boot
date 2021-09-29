@@ -1,0 +1,12 @@
+ndfc_v1px.c:100:5:save_nctri	0	static
+ndfc_v1px.c:150:6:ndfc_print_save_reg	8	static
+ndfc_v1px.c:181:5:fill_nctri	16	static
+ndfc_v1px.c:237:5:ndfc_soft_reset	16	static
+ndfc_v1px.c:21:5:init_nctri	24	static
+ndfc_v1px.c:255:5:recover_nctri	0	static
+ndfc_v1px.c:269:6:ndfc_print_reg	8	static
+ndfc_v1px.c:300:6:ndfc_encode_select	0	static
+ndfc_v1px.c:304:6:ndfc_encode_default	0	static
+ndfc_v1px.c:309:6:ndfc_channel_select	0	static
+ndfc_v1px.c:458:5:ndfc_dma_config_start	24	static
+ndfc_v1px.c:314:5:batch_cmd_io_send	16	static

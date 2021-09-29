@@ -1,0 +1,11 @@
+disp_device.c:21:5:disp_device_set_manager	8	static
+disp_device.c:35:5:disp_device_unset_manager	8	static
+disp_device.c:49:5:disp_device_get_resolution	8	static
+disp_device.c:62:5:disp_device_get_timings	8	static
+disp_device.c:75:5:disp_device_is_interlace	8	static
+disp_device.c:86:21:disp_device_get	12	static
+disp_device.c:100:21:disp_device_find	12	static
+disp_device.c:113:19:disp_device_get_list_head	0	static
+disp_device.c:119:5:disp_device_register	0	static
+disp_device.c:125:5:disp_device_unregister	0	static
+disp_device.c:131:6:disp_device_show_builtin_patten	0	static

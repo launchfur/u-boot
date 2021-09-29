@@ -1,0 +1,2 @@
+sprite_recovery.c:106:12:sprite_erase_partition_by_name	24	static
+sprite_recovery.c:190:5:sprite_form_sysrecovery	40	static

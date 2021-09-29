@@ -1,0 +1,10 @@
+sunxi_i2c.c:185:12:twi_send_slave_addr	0	static
+sunxi_i2c.c:223:12:twi_send_addr	16	static
+sunxi_i2c.c:577:12:sunxi_i2c_probe	0	static
+sunxi_i2c.c:570:13:sunxi_i2c_setspeed	24	static
+sunxi_i2c.c:325:12:twi_stop	8	static
+sunxi_i2c.c:157:12:twi_start	8	static
+sunxi_i2c.c:531:12:sunxi_i2c_write	24	static
+sunxi_i2c.c:484:12:sunxi_i2c_read	32	static
+sunxi_i2c.c:582:6:sunxi_i2c_init	24	static
+sunxi_i2c.c:603:6:sunxi_i2c_exit	8	static

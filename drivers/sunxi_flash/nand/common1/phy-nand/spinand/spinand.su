@@ -1,0 +1,7 @@
+spinand.c:14:6:spinand_get_phy_storage_info	16	static
+spinand.c:30:14:spinand_get_arch_info_str	24	static
+spinand.c:62:14:spinand_lsb_page_cnt_per_block	0	static
+spinand.c:73:14:spinand_get_page_num	0	static
+spinand.c:78:6:spinand_get_nand_info	24	static
+spinand.c:130:20:spinand_hardware_init	8	static
+spinand.c:157:7:spinand_hardware_exit	0	static

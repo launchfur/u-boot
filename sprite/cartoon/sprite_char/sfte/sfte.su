@@ -1,0 +1,10 @@
+sfte.c:448:11:is_valid_face	0	static
+sfte.c:530:13:release_hdl_res	16	static
+sfte.c:65:11:SFTE_New_Face	80	static
+sfte.c:129:5:SFTE_Done_Face	8	static
+sfte.c:143:5:SFTE_Set_Pixel_Sizes	24	static
+sfte.c:160:5:SFTE_Get_Pixel_Sizes	8	static
+sfte.c:172:5:SFTE_Get_Pixel_Size_List	16	static
+sfte.c:182:5:SFTE_Get_Pixel_Size_Count	8	static
+sfte.c:195:5:SFTE_Get_Glyph	40	static
+sfte.c:211:14:SFTE_Get_XAdvance	16	static

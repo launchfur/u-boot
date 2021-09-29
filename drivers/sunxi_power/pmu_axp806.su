@@ -1,0 +1,7 @@
+pmu_axp806.c:326:15:pmu_axp806_get_reg_value	16	static
+pmu_axp806.c:64:25:get_ctrl_info_from_tbl	24	static
+pmu_axp806.c:196:12:pmu_axp806_get_voltage	48	static
+pmu_axp806.c:113:12:pmu_axp806_set_voltage	56	static
+pmu_axp806.c:105:12:pmu_axp806_get_info	8	static
+pmu_axp806.c:335:15:pmu_axp806_set_reg_value	16	static
+pmu_axp806.c:85:12:pmu_axp806_probe	16	static

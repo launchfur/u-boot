@@ -1,0 +1,15 @@
+sunxi_mmc.c:281:12:sunxi_mmc_core_init	8	static
+sunxi_mmc.c:1045:12:sunxi_mmc_getcd_legacy	0	static
+sunxi_mmc.c:1183:12:sunxi_detail_errno	0	static
+sunxi_mmc.c:489:12:mmc_rint_wait.isra.4	48	static
+sunxi_mmc.c:1057:12:sunxi_tm4_retry.isra.1.constprop	32	static
+sunxi_mmc.c:1100:12:sunxi_decide_rty	24	static
+sunxi_mmc.c:46:6:mmc_dump_errinfo	80	static
+sunxi_mmc.c:64:6:dumphex32	32	static
+sunxi_mmc.c:187:12:mmc_update_clk.isra.6	16	static
+sunxi_mmc.c:1030:12:sunxi_mmc_set_ios_legacy	16	static
+sunxi_mmc.c:169:6:sunxi_mmc_pin_release	0	static
+sunxi_mmc.c:178:5:mmc_clk_io_onoff	8	static
+sunxi_mmc.c:1037:12:sunxi_mmc_send_cmd_legacy	64	static
+sunxi_mmc.c:1203:5:sunxi_mmcno_to_devnum	8	static
+sunxi_mmc.c:1223:13:sunxi_mmc_init	32	static

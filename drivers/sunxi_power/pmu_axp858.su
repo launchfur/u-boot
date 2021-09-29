@@ -1,0 +1,10 @@
+pmu_axp858.c:290:15:pmu_axp858_get_reg_value	16	static
+pmu_axp858.c:265:12:pmu_axp858_get_sys_mode	16	static
+pmu_axp858.c:274:12:pmu_axp858_get_key_irq	16	static
+pmu_axp858.c:257:12:pmu_axp858_set_sys_mode	8	static
+pmu_axp858.c:242:12:pmu_axp858_set_power_off	16	static
+pmu_axp858.c:71:25:get_ctrl_info_from_tbl	24	static
+pmu_axp858.c:202:12:pmu_axp858_get_voltage	32	static
+pmu_axp858.c:128:12:pmu_axp858_set_voltage	40	static
+pmu_axp858.c:299:15:pmu_axp858_set_reg_value	16	static
+pmu_axp858.c:107:12:pmu_axp858_probe	16	static

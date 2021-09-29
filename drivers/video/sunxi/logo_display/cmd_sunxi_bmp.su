@@ -1,0 +1,9 @@
+cmd_sunxi_bmp.c:50:12:do_sunxi_bmp_info	120	static
+cmd_sunxi_bmp.c:358:12:fat_read_file_ex.constprop	168	static
+cmd_sunxi_bmp.c:154:5:show_bmp_on_fb	72	static
+cmd_sunxi_bmp.c:103:12:do_sunxi_bmp_display	120	static
+cmd_sunxi_bmp.c:273:5:sunxi_bmp_display	120	static
+cmd_sunxi_bmp.c:490:5:do_sunxi_logo	0	static
+cmd_sunxi_bmp.c:323:5:sunxi_bmp_dipslay_screen	16	static
+cmd_sunxi_bmp.c:457:5:sunxi_advert_display	544	static
+cmd_sunxi_bmp.c:474:5:sunxi_bmp_decode_from_compress	16	static

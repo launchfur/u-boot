@@ -1,0 +1,6 @@
+build_phy_partition_v2.c:28:6:print_partition	24	static
+build_phy_partition_v2.c:55:5:change_partition	16	static
+build_phy_partition_v2.c:75:5:get_max_free_block_num	0	static
+build_phy_partition_v2.c:160:29:mp_build_phy_partition	40	static
+build_phy_partition_v2.c:385:29:launch_build_phy_partition	32	static
+build_phy_partition_v2.c:524:29:build_phy_partition_v2	0	static

@@ -1,0 +1,5 @@
+sunxi_keybox.c:101:12:search_key_in_linklist	32	static
+sunxi_keybox.c:115:12:default_keybox_installation	4104	static
+sunxi_keybox.c:176:5:sunxi_keybox_has_key	24	static
+sunxi_keybox.c:190:5:sunxi_keybox_init	24	static
+sunxi_keybox.c:212:5:sunxi_keybox_burn_key	32	static

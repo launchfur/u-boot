@@ -1,0 +1,13 @@
+bmu.c:42:5:bmu_probe	24	static
+bmu.c:51:5:bmu_set_power_off	0	static
+bmu.c:60:5:bmu_get_poweron_source	0	static
+bmu.c:69:5:bmu_get_axp_bus_exist	0	static
+bmu.c:78:5:bmu_set_coulombmeter_onoff	0	static
+bmu.c:87:5:bmu_get_battery_vol	0	static
+bmu.c:96:5:bmu_get_battery_capacity	0	static
+bmu.c:105:5:bmu_get_battery_probe	0	static
+bmu.c:114:5:bmu_set_vbus_current_limit	0	static
+bmu.c:123:5:bmu_get_vbus_current_limit	0	static
+bmu.c:132:5:bmu_set_charge_current_limit	0	static
+bmu.c:141:15:bmu_get_reg_value	0	static
+bmu.c:150:15:bmu_set_reg_value	0	static

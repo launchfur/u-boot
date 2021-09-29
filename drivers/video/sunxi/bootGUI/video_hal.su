@@ -1,0 +1,14 @@
+de_drv_v3.h:236:13:_show_layer_on_dev	56	static
+video_hal.c:47:5:hal_switch_device	120	static
+video_hal.c:109:5:hal_get_hpd_state	24	static
+video_hal.c:114:5:hal_is_support_mode	32	static
+video_hal.c:119:5:hal_get_hdmi_edid	40	static
+video_hal.c:126:6:hal_get_screen_size	40	static
+video_hal.c:131:6:hal_get_fb_format_config	0	static
+video_hal.c:136:7:hal_request_layer	16	static
+video_hal.c:227:5:hal_set_layer_crop	0	static
+video_hal.c:269:5:hal_show_layer	24	static
+video_hal.c:156:5:hal_release_layer	16	static
+video_hal.c:178:5:hal_set_layer_addr	8	static
+video_hal.c:192:5:hal_set_layer_alpha_mode	8	static
+video_hal.c:205:5:hal_set_layer_geometry	24	static

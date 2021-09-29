@@ -1,0 +1,10 @@
+st7701s.c:367:12:lcd_user_defined_func	0	static
+st7701s.c:138:12:LCD_close_flow	8	static
+st7701s.c:166:13:LCD_power_off	8	static
+st7701s.c:356:13:LCD_panel_exit	16	static
+st7701s.c:183:13:LCD_bl_close	8	static
+st7701s.c:128:12:LCD_open_flow	8	static
+st7701s.c:176:13:LCD_bl_open	8	static
+st7701s.c:332:13:LCD_panel_init	8	static
+st7701s.c:149:13:LCD_power_on	8	static
+st7701s.c:81:13:LCD_cfg_panel_info	176	static

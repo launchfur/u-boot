@@ -1,0 +1,8 @@
+bmu_axp81X.c:40:5:bmu_axp81X_get_battery_probe	16	static
+bmu_axp81X.c:88:5:bmu_axp81X_get_axp_bus_exist	16	static
+bmu_axp81X.c:104:5:bmu_axp81X_get_battery_vol	16	static
+bmu_axp81X.c:255:15:bmu_axp81X_get_reg_value	16	static
+bmu_axp81X.c:122:5:bmu_axp81X_get_battery_capacity	24	static
+bmu_axp81X.c:62:5:bmu_axp81X_get_poweron_source	8	static
+bmu_axp81X.c:264:15:bmu_axp81X_set_reg_value	16	static
+bmu_axp81X.c:18:12:bmu_axp81X_probe	16	static

@@ -1,0 +1,4 @@
+de_ccsc.c:120:5:de_ccsc_update_regs	32	static
+de_ccsc.c:142:5:de_ccsc_init	64	static
+de_ccsc.c:366:5:de_csc_coeff_calc	368	static
+de_ccsc.c:62:5:de_ccsc_apply	96	static

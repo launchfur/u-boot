@@ -1,0 +1,3 @@
+phy2nftl.c:11:6:nftl_get_spinand_phyinfo	0	static
+phy2nftl.c:24:6:nftl_get_rawnand_phyinfo	16	static
+phy2nftl.c:32:6:nftl_get_nand_phyinfo	8	static

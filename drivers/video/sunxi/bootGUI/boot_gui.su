@@ -1,0 +1,3 @@
+boot_gui.c:22:5:save_disp_cmd	8	static
+boot_gui.c:31:5:save_disp_cmdline	8	static
+boot_gui.c:40:5:boot_gui_init	16	static

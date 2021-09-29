@@ -1,0 +1,3 @@
+asn1_lock_free.c:9:23:asn1_get_enc_ptr.isra.0	8	static
+asn1_lock_free.c:23:6:asn1_enc_free	8	static
+asn1_lock_free.c:39:5:asn1_enc_restore	16	static

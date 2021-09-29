@@ -1,0 +1,10 @@
+power_manage.c:335:5:do_sunxi_axp	16	static
+power_manage.c:22:5:set_gpio_bias	56	static
+power_manage.c:66:5:axp_set_power_supply_output	72	static
+power_manage.c:128:5:axp_set_charge_vol_limit	16	static
+power_manage.c:142:5:axp_set_current_limit	24	static
+power_manage.c:184:5:axp_get_battery_status	24	static
+power_manage.c:209:5:sunxi_bat_low_vol_handle	40	static
+power_manage.c:248:5:axp_battery_status_handle	8	static
+power_manage.c:287:5:axp_set_vol	0	static
+power_manage.c:293:5:sunxi_update_axp_info	24	static

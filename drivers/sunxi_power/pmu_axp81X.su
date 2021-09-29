@@ -1,0 +1,10 @@
+pmu_axp81X.c:349:15:pmu_axp81X_get_reg_value	16	static
+pmu_axp81X.c:293:12:pmu_axp81X_get_sys_mode	16	static
+pmu_axp81X.c:303:12:pmu_axp81X_get_key_irq	16	static
+pmu_axp81X.c:284:12:pmu_axp81X_set_sys_mode	8	static
+pmu_axp81X.c:270:12:pmu_axp81X_set_power_off	16	static
+pmu_axp81X.c:90:25:get_ctrl_info_from_tbl	24	static
+pmu_axp81X.c:213:12:pmu_axp81X_get_voltage	48	static
+pmu_axp81X.c:131:12:pmu_axp81X_set_voltage	56	static
+pmu_axp81X.c:358:15:pmu_axp81X_set_reg_value	16	static
+pmu_axp81X.c:111:12:pmu_axp81X_probe	16	static

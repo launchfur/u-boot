@@ -1,0 +1,11 @@
+image-android.c:24:29:get_vendor_hdr_addr	16	static
+image-android.c:144:5:android_image_get_kernel	40	static
+image-android.c:215:5:android_image_check_header	0	static
+image-android.c:220:7:android_image_get_end	16	static
+image-android.c:250:7:android_image_get_kload	8	static
+image-android.c:255:5:android_image_get_ramdisk	24	static
+image-android.c:289:5:android_image_get_vendor_ramdisk	16	static
+image-android.c:308:5:android_image_get_second	24	static
+image-android.c:327:5:android_image_get_recovery_dtbo	24	static
+image-android.c:347:5:android_image_get_dtb	24	static
+image-android.c:380:6:android_print_contents	32	static

@@ -1,0 +1,2 @@
+disp_capture.c:490:22:disp_get_capture	0	static
+disp_capture.c:495:5:disp_init_capture	0	static

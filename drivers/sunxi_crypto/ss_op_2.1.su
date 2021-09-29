@@ -1,0 +1,12 @@
+ss_op_2.1.c:15:12:ss_get_addr_align	0	static
+ss_op_2.1.c:24:12:ss_get_ver	0	static
+ss_op_2.1.c:35:13:ss_set_drq	0	static
+ss_op_2.1.c:40:13:ss_ctrl_start	0	static
+ss_op_2.1.c:50:13:ss_ctrl_stop	0	static
+ss_op_2.1.c:55:12:ss_check_err	0	static
+ss_op_2.1.c:60:13:ss_wait_finish	0	static
+ss_op_2.1.c:72:12:ss_pending_clear	16	static
+ss_op_2.1.c:90:13:ss_irq_enable	0	static
+ss_op_2.1.c:98:13:ss_irq_disable	0	static
+ss_op_2.1.c:106:13:ss_open	16	static
+ss_op_2.1.c:184:13:ss_close	0	static

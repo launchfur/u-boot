@@ -1,0 +1,17 @@
+nand_info_init.c:222:5:test_mbr	8	static
+nand_info_init.c:258:5:write_mbr	64	static
+nand_info_init.c:298:5:write_factory_block_table	72	static
+nand_info_init.c:349:5:print_factory_block_table	24	static
+nand_info_init.c:372:5:write_new_block_table	72	static
+nand_info_init.c:417:5:write_no_use_block	64	static
+nand_info_init.c:456:16:read_new_bad_block_table	72	static
+nand_info_init.c:506:6:print_nand_info	8	static
+nand_info_init.c:534:14:calc_crc32	1056	static
+nand_info_init.c:569:5:build_all_phy_partition	48	static
+nand_info_init.c:24:5:nand_info_init_v1	72	static
+nand_info_init.c:657:29:get_head_phy_partition_from_nand_info	0	static
+nand_info_init.c:668:6:set_cache_level	0	static
+nand_info_init.c:680:6:set_capacity_level	0	static
+nand_info_init.c:695:6:set_read_reclaim_interval	0	static
+nand_info_init.c:707:16:debug_read_block	88	static
+nand_info_init.c:728:6:debug_read_chip	24	static

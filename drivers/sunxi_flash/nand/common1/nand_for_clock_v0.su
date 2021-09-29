@@ -1,0 +1,11 @@
+nand_for_clock_v0.c:18:7:_get_pll6_clk_v0	0	static
+nand_for_clock_v0.c:38:7:_get_ndfc_clk_v0	16	static
+nand_for_clock_v0.c:84:7:_change_ndfc_clk_v0	24	static
+nand_for_clock_v0.c:181:7:_close_ndfc_clk_v0	8	static
+nand_for_clock_v0.c:210:7:_open_ndfc_ahb_gate_and_reset_v0	8	static
+nand_for_clock_v0.c:250:7:_close_ndfc_ahb_gate_and_reset_v0	8	static
+nand_for_clock_v0.c:282:7:_cfg_ndfc_gpio_v0	24	static
+nand_for_clock_v0.c:303:5:NAND_ClkRequest_v0	24	static
+nand_for_clock_v0.c:333:6:NAND_ClkRelease_v0	8	static
+nand_for_clock_v0.c:367:5:NAND_SetClk_v0	24	static
+nand_for_clock_v0.c:398:5:NAND_GetClk_v0	16	static

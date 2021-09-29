@@ -1,0 +1,10 @@
+de_vsu.c:215:21:de_vsu_calc_fir_coef	0	static
+de_vsu.c:33:5:de_vsu_update_regs	32	static
+de_vsu.c:90:5:de_vsu_init	56	static
+de_vsu.c:180:5:de_vsu_set_reg_base	0	static
+de_vsu.c:199:5:de_vsu_enable	0	static
+de_vsu.c:250:5:de_vsu_set_para	40	static
+de_vsu.c:400:5:de_vsu_calc_scaler_para	88	static
+de_vsu.c:605:5:de_vsu_sel_ovl_scaler_para	48	static
+de_vsu.c:738:5:de_vsu_recalc_scale_para	24	static
+de_vsu.c:787:5:de_recalc_ovl_bld_for_scale	40	static

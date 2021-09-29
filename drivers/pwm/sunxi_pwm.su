@@ -1,0 +1,12 @@
+sunxi_pwm.c:151:5:sunxi_pwm_set_polarity	0	static
+sunxi_pwm.c:191:5:sunxi_pwm_config	120	static
+sunxi_pwm.c:128:12:sunxi_pwm_pin_set_state	48	static
+sunxi_pwm.c:291:5:sunxi_pwm_enable	24	static
+sunxi_pwm.c:324:6:sunxi_pwm_disable	24	static
+sunxi_pwm.c:363:6:sunxi_pwm_init	0	static
+sunxi_pwm.c:382:5:pwm_config	12	static
+sunxi_pwm.c:396:5:pwm_enable	4	static
+sunxi_pwm.c:410:5:pwm_disable	16	static
+sunxi_pwm.c:424:5:pwm_set_polarity	24	static
+sunxi_pwm.c:438:5:pwm_init	0	static
+sunxi_pwm.c:443:5:pwm_request	152	static

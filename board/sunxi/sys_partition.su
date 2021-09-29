@@ -1,0 +1,7 @@
+sys_partition.c:20:5:sunxi_partition_init	16	static
+sys_partition.c:47:5:sunxi_partition_get_partno_byname	144	static
+sys_partition.c:97:5:sunxi_flash_try_partition	24	static
+sys_partition.c:137:5:sunxi_partition_get_info	16	static
+sys_partition.c:75:5:sunxi_partition_get_info_byname	136	static
+sys_partition.c:87:6:sunxi_partition_get_offset_byname	128	static
+sys_partition.c:179:10:sunxi_partition_get_offset	8	static

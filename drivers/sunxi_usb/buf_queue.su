@@ -1,0 +1,9 @@
+buf_queue.c:29:15:NAND_GetLogicPageSize	0	static
+buf_queue.c:47:5:buf_queue_init	56	static
+buf_queue.c:127:5:buf_queue_exit	16	static
+buf_queue.c:160:5:buf_queue_empty	0	static
+buf_queue.c:165:5:buf_queue_full	0	static
+buf_queue.c:170:5:buf_queue_free_size	0	static
+buf_queue.c:175:5:buf_queue_get_page_size	0	static
+buf_queue.c:180:5:buf_enqueue	24	static
+buf_queue.c:209:5:buf_dequeue	16	static

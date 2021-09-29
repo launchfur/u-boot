@@ -1,0 +1,8 @@
+build_nand_partition.c:26:6:change_block_addr	0	static
+build_nand_partition.c:45:5:nand_erase_superblk	24	static
+build_nand_partition.c:64:5:nand_read_page	32	static
+build_nand_partition.c:84:5:nand_write_page	32	static
+build_nand_partition.c:110:5:nand_is_blk_good	16	static
+build_nand_partition.c:137:5:nand_mark_bad_blk	40	static
+build_nand_partition.c:167:25:build_nand_partition	16	static
+build_nand_partition.c:214:5:free_nand_partition	8	static

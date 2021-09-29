@@ -1,0 +1,8 @@
+sprite_verify.c:23:6:add_sum	8	static
+sprite_verify.c:52:6:sunxi_sprite_part_rawdata_verify	24	static
+sprite_verify.c:111:6:sunxi_sprite_part_sparsedata_verify	0	static
+sprite_verify.c:116:6:sunxi_sprite_generate_checksum	0	static
+sprite_verify.c:121:5:sunxi_sprite_verify_checksum	0	static
+sprite_verify.c:172:5:sunxi_sprite_read_mbr	8	static
+sprite_verify.c:183:5:sunxi_sprite_verify_mbr	80	static
+sprite_verify.c:234:5:sunxi_sprite_verify_dlmap	8	static

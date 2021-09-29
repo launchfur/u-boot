@@ -1,0 +1,10 @@
+he0801a068.c:351:12:lcd_user_defined_func	0	static
+he0801a068.c:95:12:lcd_close_flow	8	static
+he0801a068.c:122:13:lcd_power_off	8	static
+he0801a068.c:342:13:lcd_panel_exit	8	static
+he0801a068.c:139:13:lcd_bl_close	8	static
+he0801a068.c:85:12:lcd_open_flow	8	static
+he0801a068.c:133:13:lcd_bl_open	8	static
+he0801a068.c:145:13:lcd_panel_init	48	static
+he0801a068.c:105:13:lcd_power_on	8	static
+he0801a068.c:24:13:lcd_cfg_panel_info	176	static

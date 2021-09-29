@@ -1,0 +1,11 @@
+pmu.c:48:5:pmu_probe	24	static
+pmu.c:57:5:pmu_get_info	4	static
+pmu.c:69:5:pmu_set_voltage	0	static
+pmu.c:78:5:pmu_get_voltage	0	static
+pmu.c:87:5:pmu_set_power_off	0	static
+pmu.c:96:5:pmu_set_sys_mode	0	static
+pmu.c:105:5:pmu_get_sys_mode	0	static
+pmu.c:114:5:pmu_get_key_irq	0	static
+pmu.c:123:5:pmu_set_bus_vol_limit	0	static
+pmu.c:132:15:pmu_get_reg_value	0	static
+pmu.c:141:15:pmu_set_reg_value	0	static
